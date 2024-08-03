@@ -7,6 +7,7 @@ public class Arithmetic2 {
 		int c;
 		c=a+b;
 		System.out.println("result is "+c);
+		System.out.println("changes done by dc");
 		return c; // returning the addition of two number
 	}
 	public int sub(int a1,int b1) // sub method
